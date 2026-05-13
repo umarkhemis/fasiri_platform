@@ -397,7 +397,7 @@ export default function Home() {
           <div className="hero-actions fade-up delay-3">
             <GenerateKeyBtn size="xl" label="Generate Free Key" />
             <a
-              href="https://umarkhemis.github.io/fasiri"
+              href="https://fasiri.readthedocs.io/"
               target="_blank" rel="noopener noreferrer"
               className="btn btn-outline btn-xl"
             >
@@ -603,7 +603,7 @@ export default function Home() {
 
           <div style={{ display:"flex", alignItems:"center", gap:16, marginTop:24, flexWrap:"wrap" }}>
             <a
-              href="https://umarkhemis.github.io/fasiri"
+              href="https://fasiri.readthedocs.io/"
               target="_blank" rel="noopener noreferrer"
               className="btn btn-outline"
             >
@@ -637,7 +637,7 @@ export default function Home() {
             hear the audio, and chat with an AI that responds in your chosen language.
           </p>
           <a
-            href="https://fasiri-demo.vercel.app"
+            href="https://fasiri-site.vercel.app/"
             target="_blank" rel="noopener noreferrer"
             className="btn btn-primary btn-xl"
           >
@@ -710,7 +710,7 @@ export default function Home() {
             <div>
               <p className="footer-col-title">Developers</p>
               <ul className="footer-links-list">
-                <li><a href="https://umarkhemis.github.io/fasiri" target="_blank" rel="noopener noreferrer">Documentation</a></li>
+                <li><a href="https://fasiri.readthedocs.io/" target="_blank" rel="noopener noreferrer">Documentation</a></li>
                 <li><a href="https://fasiri-bu9u.onrender.com/docs" target="_blank" rel="noopener noreferrer">API Reference</a></li>
                 <li><a href="https://pypi.org/project/fasiri/" target="_blank" rel="noopener noreferrer">Python SDK</a></li>
                 <li><a href="https://github.com/umarkhemis/fasiri" target="_blank" rel="noopener noreferrer">GitHub</a></li>
@@ -720,7 +720,7 @@ export default function Home() {
             <div>
               <p className="footer-col-title">Resources</p>
               <ul className="footer-links-list">
-                <li><a href="https://fasiri-demo.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a></li>
+                <li><a href="https://fasiri-site.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a></li>
                 <li><a href="https://sunbird.ai" target="_blank" rel="noopener noreferrer">Sunbird AI</a></li>
                 <li><a href="https://translation.ghananlp.org" target="_blank" rel="noopener noreferrer">Khaya AI</a></li>
                 <li><a href="https://github.com/umarkhemis/fasiri/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">Changelog</a></li>
@@ -735,7 +735,7 @@ export default function Home() {
             <div className="footer-bottom-links">
               <a href="https://github.com/umarkhemis/fasiri" target="_blank" rel="noopener noreferrer">GitHub</a>
               <a href="https://pypi.org/project/fasiri/" target="_blank" rel="noopener noreferrer">PyPI</a>
-              <a href="https://umarkhemis.github.io/fasiri" target="_blank" rel="noopener noreferrer">Docs</a>
+              <a href="https://fasiri.readthedocs.io/" target="_blank" rel="noopener noreferrer">Docs</a>
             </div>
           </div>
         </div>
