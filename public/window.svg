@@ -1,1 +1,7 @@
-<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.5 2.5h13v10a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1zM0 1h16v11.5a2.5 2.5 0 0 1-2.5 2.5h-11A2.5 2.5 0 0 1 0 12.5zm3.75 4.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5M7 4.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0m1.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5" fill="#666"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <title>Fasiri favicon</title>
+  <rect x="0" y="0" width="4"  height="16" rx="1" fill="#2D7D46"/>
+  <rect x="0" y="0" width="14" height="4"  rx="1" fill="#E8A020"/>
+  <rect x="0" y="7" width="10" height="4"  rx="1" fill="#C0392B"/>
+  <rect x="4" y="4" width="4"  height="3"  rx="0" fill="#2D7D46"/>
+</svg>
