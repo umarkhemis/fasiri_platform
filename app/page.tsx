@@ -456,7 +456,7 @@ result <span className="tok-op">=</span> client.<span className="tok-fn">transla
                 title: "Developers",
                 links: [
                   { label:"Documentation", href:"https://fasiri.readthedocs.io/",        external:true },
-                  { label:"API Reference", href:"https://fasiri-bu9u.onrender.com/docs", external:true },
+                  { label:"API Reference", href:"https://api.fasiri-ai.com/docs", external:true },
                   { label:"Python SDK",    href:"https://pypi.org/project/fasiri/",      external:true },
                   { label:"GitHub",        href:"https://github.com/umarkhemis/fasiri",  external:true },
                 ],

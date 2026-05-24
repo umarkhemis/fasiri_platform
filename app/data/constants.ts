@@ -80,7 +80,7 @@ batch = client.translate_batch([
 for item in batch.successful():
     print(item.translated_text)`,
 
-  cURL: `curl -X POST https://fasiri-bu9u.onrender.com/api/v1/translate \\
+  cURL: `curl -X POST https://api.fasiri-ai.com/api/v1/translate \\
   -H "Authorization: Bearer fsri_..." \\
   -H "Content-Type: application/json" \\
   -d '{
@@ -99,7 +99,7 @@ for item in batch.successful():
 # }`,
 
   JavaScript: `const response = await fetch(
-  "https://fasiri-bu9u.onrender.com/api/v1/translate",
+  "https://api.fasiri-ai.com/api/v1/translate",
   {
     method: "POST",
     headers: {
