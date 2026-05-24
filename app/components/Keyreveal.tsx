@@ -25,7 +25,7 @@ export function KeyReveal({ apiKey }: { apiKey: string }) {
       </div>
       <p className="key-reveal-warning">
         <AlertCircle size={12} style={{ flexShrink: 0, marginTop: 1 }} />
-        Save this key — it won&apos;t be shown again. Pass as{" "}
+        Save this key - it won&apos;t be shown again. Pass as{" "}
         <code style={{
           fontFamily: "var(--font-mono)",
           background: "rgba(0,0,0,0.08)",

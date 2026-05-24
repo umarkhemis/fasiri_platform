@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-const FASIRI_BASE = process.env.FASIRI_BASE_URL ?? "https://fasiri-bu9u.onrender.com";
+const FASIRI_BASE = process.env.FASIRI_BASE_URL ?? "https://api.fasiri-ai.com";
 const FASIRI_ADMIN_KEY = process.env.FASIRI_ADMIN_KEY ?? "";
 
 export async function POST() {
