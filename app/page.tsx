@@ -53,7 +53,7 @@ export default function Home() {
                 className="btn btn-ghost nav-github" aria-label="GitHub">
                 <GitBranch size={16} /><span>GitHub</span>
               </a>
-              <a href="https://fasiri-bu9u.onrender.com/docs"
+              <a href="https://api.fasiri-ai.com/docs"
                 target="_blank" rel="noopener noreferrer"
                 className="btn btn-outline">API Docs</a>
             </div>
@@ -384,7 +384,7 @@ result <span className="tok-op">=</span> client.<span className="tok-fn">transla
           </p>
 
           <div data-reveal="scale" data-reveal-delay="2">
-            <a href="https://fasiri-site.vercel.app/"
+            <a href="https://fasiri-demo.vercel.app/"
               target="_blank" rel="noopener noreferrer"
               className="btn btn-primary btn-xl">
               <Play size={15} />
